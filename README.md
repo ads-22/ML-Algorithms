@@ -6,3 +6,5 @@
 - Day 4 Seaborn https://aditrisriv.medium.com/seaborn-fd047c4a1add
         Matplotlib https://aditrisriv.medium.com/data-visualization-with-matplotlib-4a962cb94a3d
 - Day 5 OpenCV https://aditrisriv.medium.com/computer-vision-opencv-c871fc8a840a
+- Task 7 
+        DataSet link https://www.kaggle.com/hellbuoy/car-price-prediction
