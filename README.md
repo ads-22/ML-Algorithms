@@ -12,3 +12,6 @@
 - Task 7 
         DataSet link https://www.kaggle.com/hellbuoy/car-price-prediction
         Blog https://aditrisriv.medium.com/linear-regression-c6625caf9e8e
+- Task 8 
+        MNIST Dataset
+        Blog https://aditrisriv.medium.com/k-nearest-neighbours-db303d1351f
