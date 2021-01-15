@@ -17,3 +17,5 @@
         Blog https://aditrisriv.medium.com/k-nearest-neighbours-db303d1351f
 - Task 9
         Blog https://aditrisriv.medium.com/decision-tree-random-forests-9c5d1225c435
+- Task 10
+        Blog https://aditrisriv.medium.com/logistic-regression-all-you-wanna-know-e7938f402663
