@@ -19,3 +19,6 @@
         Blog https://aditrisriv.medium.com/decision-tree-random-forests-9c5d1225c435
 - Task 10
         Blog https://aditrisriv.medium.com/logistic-regression-all-you-wanna-know-e7938f402663
+- Task 11
+        Blog 1 -> https://aditrisriv.medium.com/k-means-clustering-3ce2456db7f1
+        Blog 2 -> https://aditrisriv.medium.com/image-segmentation-using-k-means-4bd79e801785
