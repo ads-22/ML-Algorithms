@@ -22,3 +22,5 @@
 - Task 11
         Blog 1 -> https://aditrisriv.medium.com/k-means-clustering-3ce2456db7f1
         Blog 2 -> https://aditrisriv.medium.com/image-segmentation-using-k-means-4bd79e801785
+- Task 12
+        Blog https://aditrisriv.medium.com/support-vector-machines-svm-87841ab63b8
